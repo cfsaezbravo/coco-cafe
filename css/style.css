@@ -7597,7 +7597,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           font-family: "Great Vibes", cursive;
           font-size: 50px;
-          color: #55d0c8; }
+          color: #FFA500; }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           text-transform: uppercase;
           font-size: 40px;
@@ -7785,7 +7785,7 @@ h1, h2, h3, h4, h5,
       margin-bottom: 0; }
   .ftco-intro .wrap .book {
     width: 35%;
-    background: #784233; }
+    background: #13a19a; }
     @media (max-width: 767.98px) {
       .ftco-intro .wrap .book {
         width: 100%; } }
@@ -8373,7 +8373,7 @@ h1, h2, h3, h4, h5,
     opacity: .5; }
 
 .testimony {
-  background: #c49b63;
+  background: #13a19a;
   padding: 2em;
   color: #fff; }
   .testimony.overlay {
@@ -8618,7 +8618,7 @@ textarea.form-control {
     display: block;
     margin-bottom: 0;
     font-family: "Great Vibes", cursive;
-    color: #55d0c8;
+    color: #FFA500;
     line-height: 1;
     margin-bottom: -21px;
     z-index: 1; }
